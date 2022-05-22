@@ -106,9 +106,15 @@ Turmas:
 
 <img src="images/img49.png" width='100%'/>
 
-25. Crie uma nova conta se estiver acessando pela primeira vez ou clique em  <img src="images/img51.png" height='30'/> caso esteja retornando
+25. Crie uma nova conta se estiver acessando pela primeira vez e clique em  <img src="images/img53.png" height='30'/> ao lado direito
 
 <img src="images/img50.png" width='100%'/>
+
+26. Clique em  <img src="images/img53.png" height='30'/>
+
+<img src="images/img44.png" width='100%'/>
+
+
 
 
 
