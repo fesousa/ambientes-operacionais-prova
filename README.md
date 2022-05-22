@@ -40,3 +40,7 @@ Turmas:
 6.Insira o código de validação enviado para seu e-mail e clique em  <img src="images/img17.png" height='30'/> 
 
 <img src="images/img18.png" width='100%'/>
+
+6.Na próxima tela clique em  <img src="images/img19.png" height='30'/> 
+
+<img src="images/img20.png" width='100%'/>
