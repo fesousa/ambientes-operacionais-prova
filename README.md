@@ -29,18 +29,30 @@ Turmas:
 
 <img src="images/img12.png" width='100%'/>
 
-6. Na nova tela de login clique em  <img src="images/img13.png" height='30'/> **para criar uma nova conta com o e-mail institucional da faculdade. A prova somente será aceita com este e-mail**
+7. Na nova tela de login clique em  <img src="images/img13.png" height='30'/> **para criar uma nova conta com o e-mail institucional da faculdade. A prova somente será aceita com este e-mail**
 
 <img src="images/img14.png" width='100%'/>
 
-6. Preencha o formulário de cadastro e clique em  <img src="images/img15.png" height='30'/> 
+8. Preencha o formulário de cadastro e clique em  <img src="images/img15.png" height='30'/> 
 
 <img src="images/img16.png" width='100%'/>
 
-6.Insira o código de validação enviado para seu e-mail e clique em  <img src="images/img17.png" height='30'/> 
+9. Insira o código de validação enviado para seu e-mail e clique em  <img src="images/img17.png" height='30'/> 
 
 <img src="images/img18.png" width='100%'/>
 
-6.Na próxima tela clique em  <img src="images/img19.png" height='30'/> 
+10. Na próxima tela clique em  <img src="images/img19.png" height='30'/> 
 
 <img src="images/img20.png" width='100%'/>
+
+11. Se ocorrer um erro volte ao passo 1 e execute o processo até o passo 6. Siga de acordo com o que for mostrado:
+
+    11.1. Se for mostrada uma tela para incluir o telefone celular clique em <img src="images/img21.png" height='30'/> 
+
+    <img src="images/img22.png" width='100%'/>
+
+    11.2. Na próxima tela clique em <img src="images/img23.png" height='30'/> 
+
+    <img src="images/img24.png" width='100%'/>
+
+
