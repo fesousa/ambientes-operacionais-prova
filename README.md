@@ -24,3 +24,7 @@ Turmas:
 5. Na nova tela verifique novamente o idioma no canto superior direito e escolha <img src="images/img8.png" height='30'/>
 
 <img src="images/img9.png" width='100%'/>
+
+6. Clique em <img src="images/img10.png" height='30'/> e depois em <img src="images/img11.png" height='30'/>
+
+<img src="images/img12.png" width='100%'/>
