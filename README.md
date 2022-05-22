@@ -88,6 +88,14 @@ Turmas:
 
 <img src="images/img38.png" width='100%'/>
 
+22. Clique em <img src="images/img39.png" height='30'/> ao lado direito
+
+<img src="images/img40.png" width='100%'/>
+
+22. Na nova tela clique em <img src="images/img41.png" height='30'/>
+
+<img src="images/img42.png" width='100%'/>
+
 
 
 
