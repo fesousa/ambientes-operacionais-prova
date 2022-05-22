@@ -72,6 +72,14 @@ Turmas:
 
 <img src="images/img30.png" width='100%'/>
 
+18. Você será redirecionado para o SkillBuilder
+
+<img src="images/img31.png" width='100%'/>
+
+19. Na barra de pesquisa superior (<img src="images/img32.png" height='30'/>)  `AWS Certification Official Practice Question Sets (Portuguese)` e selecione a opção <img src="images/img33.png" height='30'/> (provavelmente a primeira opção)
+
+<img src="images/img34.png" width='100%'/>
+
 
 
 
