@@ -28,3 +28,8 @@ Turmas:
 6. Clique em <img src="images/img10.png" height='30'/> e depois em <img src="images/img11.png" height='30'/>
 
 <img src="images/img12.png" width='100%'/>
+
+6. Na nova tela de login clique em  <img src="images/img13.png" height='30'/> **para criar uma nova conta com o e-mail institucional da faculdade. A prova somente será aceita com est e-mail**
+
+<img src="images/img14.png" width='100%'/>
+
