@@ -21,3 +21,6 @@ Turmas:
 
 <img src="images/img7.png" width='100%'/>
 
+5. Na nova tela verifique novamente o idioma no canto superior direito e escolha <img src="images/img8.png" height='30'/>
+
+<img src="images/img9.png" width='100%'/>
