@@ -55,18 +55,23 @@ Turmas:
 
 13. Se for mostrada uma tela para incluir o telefone celular clique em <img src="images/img21.png" height='30'/> 
 
-    <img src="images/img22.png" width='100%'/>
+<img src="images/img22.png" width='100%'/>
 
 14. Na próxima tela clique em <img src="images/img23.png" height='30'/> 
 
 <img src="images/img24.png" width='100%'/>
 
-15. Caso um novo erro apareça, tente novamente o passo 11 Se não acontecer erro, vá para o próximo passo  
-    
+15. Caso um novo erro apareça, tente novamente o passo a partir do começo Se não acontecer erro, vá para o próximo passo  
     
 16. Na nova tela clique em <img src="images/img25.png" height='30'/> 
 
 <img src="images/img26.png" width='100%'/>
+
+
+17. Você deve conseguir ver um formulário para completar o cadastro como da imagem abaixo. Preencha o formulário e clique em <img src="images/img29.png" height='30'/> 
+
+<img src="images/img30.png" width='100%'/>
+
 
 
 
