@@ -84,6 +84,10 @@ Turmas:
 
 <img src="images/img36.png" width='100%'/>
 
+21. No modal clique em <img src="images/img37.png" height='30'/> para ser direcionado para a tela do curso
+
+<img src="images/img38.png" width='100%'/>
+
 
 
 
