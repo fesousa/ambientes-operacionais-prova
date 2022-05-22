@@ -55,4 +55,11 @@ Turmas:
 
     <img src="images/img24.png" width='100%'/>
 
+    11.3. Caso um novo erro apareça, tente novamente o passo 11
+
+    11.4. Se não acontecer erro, clique em <img src="images/img25.png" height='30'/> 
+
+    <img src="images/img26.png" width='100%'/>
+
+
 
