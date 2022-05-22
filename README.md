@@ -6,6 +6,16 @@ Turmas:
 
 * BD 2A
 
+# Regras:
+
+* Você terá no máximo 1:40 para fazer a prova
+
+* Se ultrapassar o tempo, não terá a nota de prova
+
+* A prova é composta por 20 questões parecidas com a prova de certificação
+
+* Lembre-se que essa prova já é uma preparação para o Exame de Certificação. Não consulte os materiais de aula durante a prova. Faça a prova como se fosse o exame de certificação. Este é o momento de errar e aprender.
+
 
 # Instruções
 
@@ -100,19 +110,45 @@ Turmas:
 
 <img src="images/img46.png" width='100%'/>
 
-23. Após trocar o idioma clique em <img src="images/img47.png" height='30'/>
+23. Se for a primeira vez que acessa o ambiente, faça o registro e resgate o código de acesso:
 
-24. Na nova janela aberta, insira o código que aparece na tela do passo 22 e clique em <img src="images/img48.png" height='30'/>
+    23.1. Após trocar o idioma clique em <img src="images/img47.png" height='30'/>
 
-<img src="images/img49.png" width='100%'/>
+    23.2. Na nova janela aberta, insira o código que aparece na tela do passo 22 e clique em <img src="images/img48.png" height='30'/>
 
-25. Crie uma nova conta se estiver acessando pela primeira vez e clique em  <img src="images/img53.png" height='30'/> ao lado direito
+    <img src="images/img49.png" width='100%'/>
 
-<img src="images/img50.png" width='100%'/>
+    23.3. Crie uma nova conta se estiver acessando pela primeira vez e clique em  <img src="images/img53.png" height='30'/> ao lado direito
 
-26. Clique em  <img src="images/img53.png" height='30'/>
+    <img src="images/img50.png" width='100%'/>
 
-<img src="images/img44.png" width='100%'/>
+    23.4. Clique em  <img src="images/img53.png" height='30'/>
+
+    <img src="images/img44.png" width='100%'/>
+
+24. Se estiver retornado após já ter resgatado o código de acesso:
+
+    23.1. Faça o login clicando em <img src="images/img54.png" height='30'/> no canto superior direito e faça seu login
+
+    <img src="images/img55.png" width='100%'/>
+
+    23.2. Caso não veja a tela abaixo clique em <img src="images/img57.png" height='30'/> e depois em <img src="images/img58.png" height='30'/>
+
+    <img src="images/img56.png" width='100%'/>
+
+    
+25. Na tela da última imagem clique em <img src="images/img59.png" height='30'/> na linha do Produto <img src="images/img60.png" height='30'/>
+
+<img src="images/img61.png" width='100%'/>
+
+25. Na nova tela clique em  <img src="images/img62.png" height='30'/> para iniciar a prova
+
+<img src="images/img63.png" width='100%'/>
+
+26. Ao finalizar a prova, anexe na atividade **Avaliação Oficial** no classroom um print do resultado da sua prova. A imagem deve ser como o exemplo abaixo
+
+<img src="images/img64.png" width='100%'/>
+
 
 
 
