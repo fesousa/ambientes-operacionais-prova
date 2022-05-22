@@ -29,7 +29,14 @@ Turmas:
 
 <img src="images/img12.png" width='100%'/>
 
-6. Na nova tela de login clique em  <img src="images/img13.png" height='30'/> **para criar uma nova conta com o e-mail institucional da faculdade. A prova somente será aceita com est e-mail**
+6. Na nova tela de login clique em  <img src="images/img13.png" height='30'/> **para criar uma nova conta com o e-mail institucional da faculdade. A prova somente será aceita com este e-mail**
 
 <img src="images/img14.png" width='100%'/>
 
+6. Preencha o formulário de cadastro e clique em  <img src="images/img15.png" height='30'/> 
+
+<img src="images/img16.png" width='100%'/>
+
+6.Insira o código de validação enviado para seu e-mail e clique em  <img src="images/img17.png" height='30'/> 
+
+<img src="images/img18.png" width='100%'/>
