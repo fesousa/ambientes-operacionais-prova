@@ -2,7 +2,7 @@
 
 ## Ambientes Operacionais
 
-## Turmas:
+Turmas:
 
 * BD 2A
 
