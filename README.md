@@ -31,6 +31,8 @@ Turmas:
 
 7. Na nova tela de login clique em  <img src="images/img13.png" height='30'/> **para criar uma nova conta com o e-mail institucional da faculdade. A prova somente será aceita com este e-mail**
 
+    7.1. Caso já tenha criado a conta com o e-mail da impacta e queira autenticar siga para o passo 12
+
 <img src="images/img14.png" width='100%'/>
 
 8. Preencha o formulário de cadastro e clique em  <img src="images/img15.png" height='30'/> 
@@ -45,21 +47,26 @@ Turmas:
 
 <img src="images/img20.png" width='100%'/>
 
-11. Se ocorrer um erro volte ao passo 1 e execute o processo até o passo 6. Siga de acordo com o que for mostrado:
+11. Se ocorrer um erro volte ao passo 1 e execute o processo até o passo 6. Siga de acordo com o que for mostrado
 
-    11.1. Se for mostrada uma tela para incluir o telefone celular clique em <img src="images/img21.png" height='30'/> 
+12. Se for mostrada a tela de login, faça o login com a conta da impacta criada e siga para o próximo passo
+
+<img src="images/img28.png" width='100%'/>
+
+13. Se for mostrada uma tela para incluir o telefone celular clique em <img src="images/img21.png" height='30'/> 
 
     <img src="images/img22.png" width='100%'/>
 
-    11.2. Na próxima tela clique em <img src="images/img23.png" height='30'/> 
+14. Na próxima tela clique em <img src="images/img23.png" height='30'/> 
 
-    <img src="images/img24.png" width='100%'/>
+<img src="images/img24.png" width='100%'/>
 
-    11.3. Caso um novo erro apareça, tente novamente o passo 11
+15. Caso um novo erro apareça, tente novamente o passo 11 Se não acontecer erro, vá para o próximo passo  
+    
+    
+16. Na nova tela clique em <img src="images/img25.png" height='30'/> 
 
-    11.4. Se não acontecer erro, clique em <img src="images/img25.png" height='30'/> 
-
-    <img src="images/img26.png" width='100%'/>
+<img src="images/img26.png" width='100%'/>
 
 
 
