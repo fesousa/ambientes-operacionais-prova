@@ -80,6 +80,10 @@ Turmas:
 
 <img src="images/img34.png" width='100%'/>
 
+20. Na tela do curso clique em <img src="images/img35.png" height='30'/>
+
+<img src="images/img36.png" width='100%'/>
+
 
 
 
