@@ -92,9 +92,21 @@ Turmas:
 
 <img src="images/img40.png" width='100%'/>
 
-22. Na nova tela clique em <img src="images/img41.png" height='30'/>
+22. Na nova tela clique em <img src="images/img41.png" height='30'/>. Uma nova janela será aberta no sistema `BenchPrep`
 
 <img src="images/img42.png" width='100%'/>
+
+23. No `BenchPrep` troque o idioma para português no canto superior direito
+
+<img src="images/img46.png" width='100%'/>
+
+23. Após trocar o idioma clique em <img src="images/img47.png" height='30'/>
+
+24. Na nova janela aberta, insira o código que aparece na tela do passo 22 e clique em <img src="images/img48.png" height='30'/>
+
+<img src="images/img49.png" width='100%'/>
+
+
 
 
 
