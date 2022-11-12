@@ -5,6 +5,7 @@
 Turmas:
 
 * BD 2A
+* EC 3A
 
 # Regras:
 
@@ -16,8 +17,12 @@ Turmas:
 
 * Lembre-se que essa prova já é uma preparação para o Exame de Certificação. Não consulte os materiais de aula durante a prova. Faça a prova como se fosse o exame de certificação. Este é o momento de errar e aprender.
 
+**A PROVA AINDA NÃO ESTÁ LIBERADA. ESTE É SOMENTE O COMEÇO DA PREPARAÇÃO DO AMBIENTE PARA A PROVA. NO DIA DA AVALIAÇÃO OFICIAL O RESTANTE DAS INSTRUÇÕES E A PROVA SERÃO LIBERADO**
+
 
 # Instruções
+
+## Preparação
 
 1. Acesse https://explore.skillbuilder.aws/learn
 
@@ -86,6 +91,12 @@ Turmas:
 
 <img src="images/img31.png" width='100%'/>
 
+
+**SE CHEGOU ATÉ AQUI, SEU AMBIENTE ESTÁ PRONTO PARA REALIZAR A PROVA NO DIA DA AVALIAÇÃO OFICIAL. O RESTANTE DAS INSTRUÇÕES SERÁ LIBERADO NO DIA DA AVALIAÇÃO**
+
+
+<!-- ## Avaliação
+
 19. Na barra de pesquisa superior (<img src="images/img32.png" height='30'/>)  `AWS Certification Official Practice Question Sets (Portuguese)` e selecione a opção <img src="images/img33.png" height='30'/> (provavelmente a primeira opção)
 
 <img src="images/img34.png" width='100%'/>
@@ -147,7 +158,7 @@ Turmas:
 
 26. Ao finalizar a prova, anexe na atividade **Avaliação Oficial** no classroom um print do resultado da sua prova. A imagem deve ser como o exemplo abaixo
 
-<img src="images/img64.png" width='100%'/>
+<img src="images/img64.png" width='100%'/> -->
 
 
 
