@@ -95,7 +95,7 @@ Turmas:
 **SE CHEGOU ATÉ AQUI, SEU AMBIENTE ESTÁ PRONTO PARA REALIZAR A PROVA NO DIA DA AVALIAÇÃO OFICIAL. O RESTANTE DAS INSTRUÇÕES SERÁ LIBERADO NO DIA DA AVALIAÇÃO**
 
 
-<!-- ## Avaliação
+## Avaliação
 
 19. Procure a barra de pesquisa (<img src="images/img32.png" height='30'/>) e procure pelo curso  `AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C01 - Portuguese)` e selecione a opção 
 
@@ -133,7 +133,7 @@ Turmas:
 
 26. Ao finalizar a prova, anexe na atividade **Avaliação Oficial** no classroom um print do resultado da sua prova. A imagem deve ser como o exemplo abaixo
 
-<img src="images/img64.png" width='100%'/> -->
+<img src="images/img64.png" width='100%'/>
 
 
 
