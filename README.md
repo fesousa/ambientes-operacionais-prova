@@ -99,7 +99,7 @@ Turmas:
 
 19. Procure a barra de pesquisa (<img src="images/img32.png" height='30'/>) e procure pelo curso  `AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C01 - Portuguese)` e selecione a opção 
 
-<img src="images/img33.png" height='30'/>
+<img src="images/img33.png" height='120'/>
 
 
 20. Na tela do curso clique em <img src="images/img35.png" height='30'/>
