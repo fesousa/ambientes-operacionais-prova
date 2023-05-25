@@ -2,11 +2,6 @@
 
 ## Ambientes Operacionais
 
-Turmas:
-
-* BD 2A
-* EC 3A
-
 # Regras:
 
 * Você terá no máximo 1:40 para fazer a prova
@@ -40,7 +35,7 @@ Turmas:
 
 <img src="images/img9.png" width='100%'/>
 
-6. Clique em <img src="images/img10.png" height='30'/> e depois em <img src="images/img11.png" height='30'/>
+6. Se a opção <img src="images/img11.png" height='30'/> não estiver aparecendo, clique em <img src="images/img10.png" height='30'/> para mostrar. Depois em <img src="images/img11.png" height='30'/>
 
 <img src="images/img12.png" width='100%'/>
 
@@ -83,11 +78,7 @@ Turmas:
 <img src="images/img26.png" width='100%'/>
 
 
-17. Você deve conseguir ver um formulário para completar o cadastro como da imagem abaixo. Preencha o formulário e clique em <img src="images/img29.png" height='30'/> 
-
-<img src="images/img30.png" width='100%'/>
-
-18. Você será redirecionado para o SkillBuilder
+17. Você será redirecionado para o SkillBuilder
 
 <img src="images/img31.png" width='100%'/>
 
@@ -97,41 +88,49 @@ Turmas:
 
 ## Avaliação
 
-19. Procure a barra de pesquisa (<img src="images/img32.png" height='30'/>) e procure pelo curso  `AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C01 - Portuguese)` e selecione a opção 
+1. Acesse https://explore.skillbuilder.aws/learn e faça seu login (siga os passos anteriores)
+
+
+
+2. Role a página para procurar a barra de pesquisa 
+
+<img src="images/img32.png" height='70'/>
+
+3. Procure pelo curso  `AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C01 - Portuguese)` e selecione-o
 
 <img src="images/img33.png" height='500'/>
 
 
-20. Na tela do curso clique em <img src="images/img35.png" height='30'/>
+4. Na tela do curso clique em <img src="images/img35.png" height='30'/>
 
 <img src="images/img36.png" width='100%'/>
 
-21. No modal clique em <img src="images/img37.png" height='30'/> para ser direcionado para a tela do curso
+3. No modal clique em <img src="images/img37.png" height='30'/> para ser direcionado para a tela do curso
 
 <img src="images/img38.png" width='100%'/>
 
-22. Clique em <img src="images/img39.png" height='30'/> ao lado direito
+4. Clique em <img src="images/img39.png" height='30'/> ao lado direito
 
 <img src="images/img40.png" width='100%'/>
 
-22. Na nova tela clique em <img src="images/img41.png" height='30'/>. Uma nova janela será aberta no sistema `BenchPrep`
+5. Na nova tela clique em <img src="images/img41.png" height='30'/>. Uma nova janela será aberta no sistema `BenchPrep`
 
 <img src="images/img42.png" width='100%'/>
 
-23. Na nova janela, aceite os teremos de uso
+6. Na nova janela, aceite os teremos de uso
 
 <img src="images/img65.png" width='100%'/>
 
 
-25. Na nova tela clique em <img src="images/img59.png" height='30'/> na linha do Produto <img src="images/img60.png" height='30'/>
+7. Na nova tela clique em <img src="images/img59.png" height='30'/> na linha do Produto <img src="images/img60.png" height='30'/>
 
 <img src="images/img61.png" width='100%'/>
 
-25. Na nova tela clique em  <img src="images/img62.png" height='30'/> para iniciar a prova
+8. Na nova tela clique em  <img src="images/img62.png" height='30'/> para iniciar a prova
 
 <img src="images/img63.png" width='100%'/>
 
-26. Ao finalizar a prova, anexe na atividade **Avaliação Oficial** no classroom um print do resultado da sua prova. A imagem deve ser como o exemplo abaixo
+9. Ao finalizar a prova, anexe na atividade **Avaliação Oficial** no classroom um print do resultado da sua prova. A imagem deve ser como o exemplo abaixo
 
 <img src="images/img64.png" width='100%'/>
 
