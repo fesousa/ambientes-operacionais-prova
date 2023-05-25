@@ -88,6 +88,14 @@
 
 ## Avaliação
 
+**ATENÇÃO!**
+
+**LEIA AS INSTRUÇÕES COM MUITA ATENÇÃO. CASO TENHA DÚVIDAS, CHAME O PROFESSOR. NÃO SERÃO ACEITAS RECLAMAÇÕES APÓS A PROVA**
+
+**O PRAZO DE ENTREGA É O HORÁRIO FINAL DA AULA (CONFIRA O HORÁRIO NA ATIVIDADE DE AVALIAÇÃO FINAL NO CLASSROOM).**
+
+**A AVALIAÇÃO SÓ SERÁ CONSIDERAR ENTREGUE COM A IMAGEM ANEXA NA ATIVIDADE DO CLASSROOM, DENTRO DO HORÁRIO DE REALIZAÇÃO DA PROVA. ENTREGAS ATRASADAS NÃO SERÃO CONSIDERADAS** 
+
 1. Acesse https://explore.skillbuilder.aws/learn e faça seu login (siga os passos anteriores)
 
 
@@ -105,34 +113,36 @@
 
 <img src="images/img36.png" width='100%'/>
 
-3. No modal clique em <img src="images/img37.png" height='30'/> para ser direcionado para a tela do curso
+53. No modal clique em <img src="images/img37.png" height='30'/> para ser direcionado para a tela do curso
 
 <img src="images/img38.png" width='100%'/>
 
-4. Clique em <img src="images/img39.png" height='30'/> ao lado direito
+6. Clique em <img src="images/img39.png" height='30'/> ao lado direito
 
 <img src="images/img40.png" width='100%'/>
 
-5. Na nova tela clique em <img src="images/img41.png" height='30'/>. Uma nova janela será aberta no sistema `BenchPrep`
+7. Na nova tela clique em <img src="images/img41.png" height='30'/>. Uma nova janela será aberta no sistema `BenchPrep`
 
 <img src="images/img42.png" width='100%'/>
 
-6. Na nova janela, aceite os teremos de uso
+8. Na nova janela, aceite os teremos de uso
 
 <img src="images/img65.png" width='100%'/>
 
 
-7. Na nova tela clique em <img src="images/img59.png" height='30'/> na linha do Produto <img src="images/img60.png" height='30'/>
+9. Na nova tela clique em <img src="images/img59.png" height='30'/> na linha do Produto <img src="images/img60.png" height='30'/>
 
 <img src="images/img61.png" width='100%'/>
 
-8. Na nova tela clique em  <img src="images/img62.png" height='30'/> para iniciar a prova
+10. Na nova tela clique em  <img src="images/img62.png" height='30'/> para iniciar a prova
 
 <img src="images/img63.png" width='100%'/>
 
-9. Ao finalizar a prova, anexe na atividade **Avaliação Oficial** no classroom um print do resultado da sua prova. A imagem deve ser como o exemplo abaixo
+11. Ao finalizar a prova, anexe na atividade **Avaliação Oficial** no classroom um print do resultado da sua prova. A imagem deve ser como o exemplo abaixo
 
 <img src="images/img64.png" width='100%'/>
+
+
 
 
 
