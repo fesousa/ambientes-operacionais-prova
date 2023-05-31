@@ -84,3 +84,60 @@
 
 
 **SE CHEGOU ATÉ AQUI, SEU AMBIENTE ESTÁ PRONTO PARA REALIZAR A PROVA NO DIA DA AVALIAÇÃO OFICIAL. O RESTANTE DAS INSTRUÇÕES SERÁ LIBERADO NO DIA DA AVALIAÇÃO**
+
+
+## Avaliação
+
+**ATENÇÃO!**
+
+**LEIA AS INSTRUÇÕES COM MUITA ATENÇÃO. CASO TENHA DÚVIDAS, CHAME O PROFESSOR. NÃO SERÃO ACEITAS RECLAMAÇÕES APÓS A PROVA**
+
+**O PRAZO DE ENTREGA É O HORÁRIO FINAL DA AULA (CONFIRA O HORÁRIO NA ATIVIDADE DE AVALIAÇÃO FINAL NO CLASSROOM).**
+
+**A AVALIAÇÃO SÓ SERÁ CONSIDERAR ENTREGUE COM A IMAGEM ANEXA NA ATIVIDADE DO CLASSROOM, DENTRO DO HORÁRIO DE REALIZAÇÃO DA PROVA. ENTREGAS ATRASADAS NÃO SERÃO CONSIDERADAS** 
+
+1. Acesse https://explore.skillbuilder.aws/learn e faça seu login (siga os passos anteriores)
+
+
+
+2. Role a página para procurar a barra de pesquisa 
+
+<img src="images/img32.png" height='70'/>
+
+3. Procure pelo curso  `AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C01 - Portuguese)` e selecione-o
+
+<img src="images/img33.png" height='500'/>
+
+
+4. Na tela do curso clique em <img src="images/img35.png" height='30'/>
+
+<img src="images/img36.png" width='100%'/>
+
+53. No modal clique em <img src="images/img37.png" height='30'/> para ser direcionado para a tela do curso
+
+<img src="images/img38.png" width='100%'/>
+
+6. Clique em <img src="images/img39.png" height='30'/> ao lado direito
+
+<img src="images/img40.png" width='100%'/>
+
+7. Na nova tela clique em <img src="images/img41.png" height='30'/>. Uma nova janela será aberta no sistema `BenchPrep`
+
+<img src="images/img42.png" width='100%'/>
+
+8. Na nova janela, aceite os teremos de uso
+
+<img src="images/img65.png" width='100%'/>
+
+
+9. Na nova tela clique em <img src="images/img59.png" height='30'/> na linha do Produto <img src="images/img60.png" height='30'/>
+
+<img src="images/img61.png" width='100%'/>
+
+10. Na nova tela clique em  <img src="images/img62.png" height='30'/> para iniciar a prova
+
+<img src="images/img63.png" width='100%'/>
+
+11. Ao finalizar a prova, anexe na atividade **Avaliação Oficial** no classroom um print do resultado da sua prova. A imagem deve ser como o exemplo abaixo
+
+<img src="images/img64.png" width='100%'/>
